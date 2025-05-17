@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kritika Bindal</h1>
+<h3 align="center">Fullstack Developer</h3>
 
-<!--
-**KritikaBindal07/KritikaBindal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a passionate **Full Stack Developer** with a strong foundation in building scalable web apps using the **MERN stack**. 
 
-Here are some ideas to get you started:
+📧 Reach out to me [kirtibindalkb770@gmail.com](mailto:kirtibindalkb770@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Toolbox
+
+💻 **Languages:**  
+- 🌐 JavaScript, HTML, CSS, Java, C++
+
+🧩 **Frontend:**  
+- ⚛️ React.js, 🚀 Vite, 🎨 Tailwind CSS, 📦 Material UI
+
+🛠️ **Backend & Database:**  
+- 🧠 Node.js, 🔥 Firebase, 🍃 MongoDB 
+
+🧪 **Tools & APIs:**  
+- 🛠 Git + GitHub, 🧪 Postman, 🔐 Firebase Auth,
+ 
+## 📊 GitHub Stats
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kritikabindal07&show_icons=true&theme=react&count_private=true" width="48%" />
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kritikabindal07&theme=react&hide_border=true" width="48%" />
+
+</div>
